@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/justin-kang-aaa942219"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/jtn26"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:kangjustin392@gmail.com"
+        }
+    ]
+}
