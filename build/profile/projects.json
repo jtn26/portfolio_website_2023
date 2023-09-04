@@ -1,0 +1,21 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/data_defender_dashboard.png",
+            "title": "Data Defenders",
+            "bodyText": "Chrome Extension to Track Personal Email Selling\n - Built on Redis and Go backend, React frontend",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jtn26/DataDefenders"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Go",
+                "Redis",
+                "Gin"
+            ]
+        }
+    ]
+}
