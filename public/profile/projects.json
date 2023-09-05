@@ -16,6 +16,21 @@
                 "Redis",
                 "Gin"
             ]
+        },
+        {
+            "image" : "images/projects/nft_sample.jpg",
+            "title": "NFT Copy Preventer",
+            "bodyText": "Set of Notebooks along with a ML Model that Determines Which Company an NFT Has Been Copied From",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jtn26/NFT_CopyPreventer"
+                }
+            ],
+            "tags" : [
+                "Tensorflow/Keras",
+                "Puppeteer"
+            ]
         }
     ]
 }
